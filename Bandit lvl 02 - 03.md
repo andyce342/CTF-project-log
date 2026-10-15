@@ -1,6 +1,7 @@
 Bandit lvl 2-3:
 (Command that worked:ls, cat ./"--spaces in this file--")
 
+What I did/why I did: 
 ls displays the file and cat reads the file. ./ serve as the direct command to look at this filename that coming up next and quote mark encloses the filename. 
 (by passes if there's any spacing. or you put \ before the spaces to make the terminal ignore it)
 
