@@ -1,4 +1,7 @@
 Bandit lvl 6-7:
+
+What it asking for: The password for the next level is stored somewhere on the server and has all of the following properties: owned by user bandit7, owned by group bandit6 and 33 bytes in size
+
 (Command that worked:find / -user bandit7 -group bandit6 -size 33c, cat /var/lib/dpkg/info/bandit7.password)
 
 What I did/why I did: 
