@@ -1,4 +1,7 @@
 Bandit lvl 5 - 6:
+
+What it asking for: The password for the next level is stored in a file somewhere under the inhere directory and has all of the following properties: human-readable, 1033 bytes in size and not executable. 
+
 (Command that worked:ls, cd inhere, ls, find . -size 1033c ! -executable, cd maybehere07, ls -la, cat .file2)
 
 What I did/why I did: 
