@@ -1,4 +1,7 @@
 Bandit lvl 14-15:
+
+What it asking for: The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost. 
+
 (Command that worked:nc localhost 30000, aaWecNkG4FhxJQxz07uiwzVP6bJiYS65)
 
 What I did/why I did: 
