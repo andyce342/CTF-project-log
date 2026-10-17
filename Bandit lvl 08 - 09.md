@@ -1,4 +1,7 @@
 Bandit lvl 8-9:
+
+What it asking for: The password for the next level is stored in the file data.txt and is the only line of text that occurs only once. 
+
 (Command that worked:ls, sort data.txt | uniq -u)
 
 What I did/why I did: 
