@@ -1,4 +1,7 @@
 Bandit lvl 9-10:
+
+What it asking for: The password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several ‘=’ characters.
+
 (Command that worked:ls, strings data.txt | grep =)
 
 What I did/why I did: 
