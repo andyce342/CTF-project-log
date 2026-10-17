@@ -1,4 +1,7 @@
 Bandit lvl 4-5:
+
+What it asking for: The password for the next level is stored in the only human-readable file in the inhere directory. Tip: if your terminal is messed up, try the “reset” command. 
+
 (Command that worked:ls, cd inhere, ls, file ./-file*, cat ./-file07)
 
 What I did/why I did: 
