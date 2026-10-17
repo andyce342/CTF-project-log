@@ -1,4 +1,7 @@
 Bandit lvl 12-13:
+
+What it asking for: The password for the next level is stored in the file data.txt, which is a hexdump of a file that has been repeatedly compressed. For this level it may be useful to create a directory under /tmp in which you can work. Use mkdir with a hard to guess directory name. Or better, use the command “mktemp -d”. Then copy the datafile using cp, and rename it using mv (read the manpages!)
+
 (Command that worked:ls, mktemp -d, cd /tmp/tmp.4oQs6Fstqq, cp ~/data.txt ., xxd -r data.txt > 1,file 1, mv 1 1.gz, gunzip 1.gz, file 1, mv 1 1.bz2, bunzip2 1.bz2, file 1, mv 1 1.gz, gunzip 1.gz, file 1, mv 1 1.tar, tar -xvf binary_file.tar, file data5.bin, mv data5.bin data5.bin.tar, tar -xvf data5.bin.tar, file data6.bin, mv data6.bin data6.bin.bz2, bunzip2 data6.bin.bz2, file data6.bin, mv data6.bin data6.bin.tar, tar -xvf data6.bin.tar, file data8.bin, mv data8.bin data8.bin.gz, gunzip data8.bin.gz, file data8.bin, cat data8.bin)
 
 What I did/why I did: 
