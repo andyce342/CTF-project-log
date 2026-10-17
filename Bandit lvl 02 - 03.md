@@ -1,4 +1,7 @@
 Bandit lvl 2-3:
+
+What it asking for: The password for the next level is stored in a file called --spaces in this filename-- located in the home directory
+
 (Command that worked:ls, cat ./"--spaces in this file--")
 
 What I did/why I did: 
