@@ -1,4 +1,7 @@
 Bandit lvl 10-11:
+
+What it asking for: The password for the next level is stored in the file data.txt, which contains base64 encoded data. 
+
 (Command that worked:base64 -d data.txt)
 
 What I did/why I did: 
