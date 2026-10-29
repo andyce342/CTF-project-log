@@ -10,5 +10,3 @@ What worked: (Command: wget [url], ls(optional), cat [the filename that obtain f
 Simplest and shortcut way: Just click on the link on the word flag it will download the file and it will display the flag.           
 The proper way: copy the link and use wget (World Wide Web get, it is used download files directly from the internet) to obtain the file and cat it. 
 
-The AI log: 
-Told the assistant what I did and asked what does the hint mean in the challenge. It kept hinting that maybe there is something in the link that might help complete the level. I told it that it was just a piece of the text and it hinted that it might the key to success(flag) which I kept saying it not until I actually submit it trying to prove it wrong; it turn it was the flag. It also direct me to the wget method where it direct me to an format of how the wget is supposed to be used but it also advice me to use man cat to read the file because it was listed on the hint section. I ignored that part because I had tested before already and just read the file using the normal cat. 
