@@ -1,0 +1,14 @@
+ 
+(Ai log for Bandit lvl 2-3 : Asked for an  easier way to access the next level and not exiting current level and login to another. 
+The Ai hinted that there's a two letter command that is the acronym that comes from Substitute User that serves for this purpose. 
+(su is a command that allows you to switch to another user account which needs the corresponding passowords; didn't work for bandit. 
+Up arrow brings back previous commands which was able to server as a shortcut.)) 
+
+(Ai log for Bandit lvl 12 - 13: I copy and pasted the challenge description and explained what I did; creating a temporary directory and pasted the file into the directory on a new file named 1; looked at the file type beforehand too. It recommend a mv command-line from the list to test it out and explained what it do and what it should show without actually showing the actual step or code. Which it forgot to correlate to what it related to decompressioning the files which I reminded it. Told me that it should same for all of them adding the shorten version of the zip name and remove using un attachment, tar uses -xvf didn't told that experimented around and searched the web to get to the correct result, after the first rounds of experiment I got the concept and did the rest myself. )
+
+(The AI log for picoGym General skill - Obedient Cat: 
+Told the assistant what I did and asked what does the hint mean in the challenge. It kept hinting that maybe there is something in the link that might help complete the level. I told it that it was just a piece of the text and it hinted that it might the key to success(flag) which I kept saying it not until I actually submit it trying to prove it wrong; it turn it was the flag. It also direct me to the wget method where it direct me to an format of how the wget is supposed to be used but it also advice me to use man cat to read the file because it was listed on the hint section. I ignored that part because I had tested before already and just read the file using the normal cat. ) 
+
+(The AI log for picoGym General skills - Wave a flag: Asked what is the -h command line is and specifically why it doesn't print instruction or tips like I had expected in the help function. It explain that -h doesn't really mean anything it just internal function that display helpful text(usually instructions) from the creator to the user; meaning the text in -h can be anything. ) 
+
+(Ai log for picoGym Web Exploitation - where are the robots: Explained what I tried and the ai explain that there's a concept called robot.txt and hinted that maybe this has something to do with the challenge. It tried that method for five time and the ai started to redirect to solve the problem by using inspect function in the web browser; spent about 20 mins talking about how to enable the developer mode. I finish doing that and decided to the figure out myself which apparently to be the problem of a typo. )
