@@ -11,7 +11,3 @@ ls displays the file and cat reads the file. ./ serve as the direct command to l
 
 (password:7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME)
 
-(Ai log: Asked for an  easier way to access the next level and not exiting current level and login to another. 
-The Ai hinted that there's a two letter command that is the acronym that comes from Substitute User that serves for this purpose. 
-(su is a command that allows you to switch to another user account which needs the corresponding passowords; didn't work for bandit. 
-Up arrow brings back previous commands which was able to server as a shortcut.)) 
