@@ -21,5 +21,13 @@ Acceptance criteria:
 4) At least one entry that shows the guardrail working: a hint you got, not an answer
 
 
+Direction 3: CTF portfolio + reflection
+Grow P1 into a portfolio: a documented set of solved challenges across Linux, crypto, forensics, and web-recognition, plus a reflection on what you learned and how you worked.
+
+MUST INCLUDE
+≥ 15 documented challenges across ≥ 3 categories (Bandit + picoGym)
+A clear write-up for each
+A reflection: what you learned, your hardest challenge, where your assistant helped and where it wasn't allowed to
+The Socratic-guardrail habit visible throughout the log 
 
  
