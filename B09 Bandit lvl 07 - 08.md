@@ -2,6 +2,8 @@ Bandit lvl 7-8:
 
 What it asking for: The password for the next level is stored in the file data.txt next to the word millionth. 
 
+What I did/tried: ls and it display a file, checked what kind of file is displayed and the instruction said that the password is next to word millionth so I used grep since I knew what it command is that. 
+
 (Command that worked:ls, file data.txt, grep millionth data.txt)
 
 What I did/why I did: 
