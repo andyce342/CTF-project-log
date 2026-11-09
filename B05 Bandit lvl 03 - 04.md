@@ -2,7 +2,7 @@ Bandit lvl 3-4:
 
 What it asking for: The password for the next level is stored in a hidden file in the inhere directory. 
 
-What I did/tried:Tried to cat the inhere what didn't work so I tried cd method which got it into the directory but then ls function displayed nothing. Made a deeper dive in the ls function and tried adding aid commands like -a. 
+What I did/tried:Tried to cat the inhere which didn't work so I tried cd method which got it into the directory but then ls function displayed nothing. Made a deeper dive in the ls function and tried adding aid commands like -a. 
 
 (Command that worked:ls, cd inhere,ls -a, cat ...Hiding-From-You)     
 why I did: 
