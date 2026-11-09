@@ -6,6 +6,8 @@ Up arrow brings back previous commands which was able to server as a shortcut.))
 
 (Ai log for Bandit lvl 12 - 13: I copy and pasted the challenge description and explained what I did; creating a temporary directory and pasted the file into the directory on a new file named 1; looked at the file type beforehand too. It recommend a mv command-line from the list to test it out and explained what it do and what it should show without actually showing the actual step or code. Which it forgot to correlate to what it related to decompressioning the files which I reminded it. Told me that it should same for all of them adding the shorten version of the zip name and remove using un attachment, tar uses -xvf didn't told that experimented around and searched the web to get to the correct result, after the first rounds of experiment I got the concept and did the rest myself. )
 
+(Ai log for Bandit lvl 13 - 14:    )
+
 (AI log for picoGym General skill - Obedient Cat: 
 Told the assistant what I did and asked what does the hint mean in the challenge. It kept hinting that maybe there is something in the link that might help complete the level. I told it that it was just a piece of the text and it hinted that it might the key to success(flag) which I kept saying it not until I actually submit it trying to prove it wrong; it turn it was the flag. It also direct me to the wget method where it direct me to an format of how the wget is supposed to be used but it also advice me to use man cat to read the file because it was listed on the hint section. I ignored that part because I had tested before already and just read the file using the normal cat. ) 
 
