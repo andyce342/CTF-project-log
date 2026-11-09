@@ -2,7 +2,7 @@ Bandit lvl 11-12:
 
 What it asking for: The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions. 
 
-What I did/tried: ls and it show the text, read it there a text but I don't know and it over 13 letter. So I combined a previous command into cat command which read and reveal the new text; the password. 
+What I did/tried: ls and it show the text, reveal that and there's a text . So I combined a previous command into cat command which read and reveal the new text with the password. 
 
 (Command that worked:ls, cat data.txt | tr 'A-Za-z' 'NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm') 
 why I did: 
