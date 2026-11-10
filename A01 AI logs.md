@@ -14,7 +14,7 @@ Rules for you:
 
 Here is the challenge and everything I've tried so far:
 [paste the challenge text + your attempts]
-
+____________________________________________________________________________________
 (Ai log for Bandit lvl 2-3 : Asked for an  easier way to access the next level and not exiting current level and login to another. The Ai hinted that there's a two letter command that is the acronym that comes from Substitute User that serves for this purpose. (su is a command that allows you to switch to another user account which needs the corresponding passowords; didn't work for bandit. Up arrow brings back previous commands which was able to server as a shortcut.)) 
 
 (Ai log for Bandit lvl 12 - 13: I copy and pasted the challenge description and explained what I did; creating a temporary directory and pasted the file into the directory on a new file named 1; looked at the file type beforehand too. It recommend a mv command-line from the list to test it out and explained what it do and what it should show without actually showing the actual step or code. Which it forgot to correlate to what it related to decompressioning the files which I reminded it. Told me that it should same for all of them adding the shorten version of the zip name and remove using un attachment, tar uses -xvf didn't told that experimented around and searched the web to get to the correct result, after the first rounds of experiment I got the concept and did the rest myself. )
